@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rozgarmitra-23/static/css/main.58bcb973.css",
+    "main.js": "/rozgarmitra-23/static/js/main.5fcaf847.js",
+    "static/js/787.601d35a6.chunk.js": "/rozgarmitra-23/static/js/787.601d35a6.chunk.js",
+    "index.html": "/rozgarmitra-23/index.html",
+    "main.58bcb973.css.map": "/rozgarmitra-23/static/css/main.58bcb973.css.map",
+    "main.5fcaf847.js.map": "/rozgarmitra-23/static/js/main.5fcaf847.js.map",
+    "787.601d35a6.chunk.js.map": "/rozgarmitra-23/static/js/787.601d35a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58bcb973.css",
+    "static/js/main.5fcaf847.js"
+  ]
+}
